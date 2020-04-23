@@ -40,14 +40,17 @@ print(mensagem)
 Os blocos de codigo são definidos por identação
 
 ### Comentários
-
+```
 """ \
 comentário linha 1 \
 comentário linha 2 \
 comentário linha 3 \
 """
+```
 
+```
 """ comentário linha única """
+```
 
 ### Tipos de Dados
 
