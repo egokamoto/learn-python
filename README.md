@@ -10,13 +10,13 @@ Ctrl-Z + <Enter>
 ```
 
 powershell
-```
+```powershell
 "print('Hello World')" | Out-File -Encoding "UTF8" my-script-file.py
 py .\my-script-file.py <Enter>
 ```
 
 bash
-```
+```bash
 echo "print('Hello World')" | tee -a my-script-file.py > /dev/null
 py my-script-file.py
 ```
@@ -30,7 +30,7 @@ A inicialização de variáveis é sempre necessária, nunca automatica.
 #### Atribuição de valor
 
 A atribuição de valor se dá pelo operador `=`
-```
+```py
 mensagem = "Hello World"
 print(mensagem)
 ```
@@ -40,7 +40,7 @@ print(mensagem)
 Os blocos de codigo são definidos por identação
 
 ### Comentários
-```
+```py
 """
 comentário linha 1
 comentário linha 2
@@ -48,7 +48,7 @@ comentário linha 3
 """
 ```
 
-```
+```py
 """ comentário linha única """
 ```
 
