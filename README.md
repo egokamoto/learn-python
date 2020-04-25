@@ -1,4 +1,5 @@
 # Aprendendo Python
 
-* [Preparando o ambiente](setup.md)
-* [Primeiros passos](primeiros-passos.md)
+* [Preparando o ambiente](basico/setup.md)
+* [Primeiros passos](basico/primeiros-passos.md)
+* [Operadores](basico/operadores.md)
