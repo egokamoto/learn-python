@@ -61,7 +61,7 @@ a, b, c = 125, 126, 120
 |`and`   |`True and True` |`True` e `True`   |True     |
 |`or`    |`True or False` |`True` ou `False` |True     |
 
-## Operaodres de agregação
+## Operadores de agregação
 
 Considerando: `a = 6`
 
