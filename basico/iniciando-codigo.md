@@ -14,7 +14,7 @@ while a < 10:
 # seq = [0, 1, 1, 2, 3, 5, 8]
 ```
 
-## Criando uma função para realizar este calculo
+## Criando uma função para realizar este calculo (1)
 
 ```py
 def fibonnati():
@@ -28,7 +28,7 @@ def fibonnati():
 # fibonnati() = [0, 1, 1, 2, 3, 5, 8]
 ```
 
-## Expandindo a função para definir o maior numero
+## Expandindo a função para definir o maior numero (2)
 ```py
 def fibonnati(max):
     seq = []
@@ -41,7 +41,7 @@ def fibonnati(max):
 # fibonnati(100) = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 ```
 
-## Atribuindo um valor padrão de 10 para o parametro de entrada
+## Atribuindo um valor padrão de 10 para o parametro de entrada (3)
 ```py
 def fibonnati(max = 10):
     seq = []
@@ -53,3 +53,4 @@ def fibonnati(max = 10):
 
 # fibonnati() = [0, 1, 1, 2, 3, 5, 8]
 ```
+> Note que temos uma funcão, com suporte idêntico à primeira função criada, porém com a capacidade de especificar o maior número da sequencia
