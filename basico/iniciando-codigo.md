@@ -52,5 +52,6 @@ def fibonnati(max = 10):
     return seq
 
 # fibonnati() = [0, 1, 1, 2, 3, 5, 8]
+# fibonnati(100) = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 ```
 > Note que temos uma funcão, com suporte idêntico à primeira função criada, porém com a capacidade de especificar o maior número da sequencia
