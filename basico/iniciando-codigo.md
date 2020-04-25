@@ -17,7 +17,7 @@ while a < 10:
 ## Criando uma função para realizar este calculo
 
 ```py
-def fibonnati10():
+def fibonnati():
     seq = []
     a, b = 0, 1
     while a < 10:
@@ -25,7 +25,7 @@ def fibonnati10():
         a, b = b, a+b
     return seq
 
-# fibonnati10() = [0, 1, 1, 2, 3, 5, 8]
+# fibonnati() = [0, 1, 1, 2, 3, 5, 8]
 ```
 
 ## Expandindo a função para definir o maior numero
@@ -37,6 +37,6 @@ def fibonnati(max):
         seq.append(a)
         a, b = b, a+b
     return seq
-    
+
 # fibonnati(100) = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 ```
