@@ -1,0 +1,26 @@
+1. Explore fazendo a substituição de string
+
+   Crie uma string com palavras separadas por ',' e substitua as virgulas 
+   por espaços.
+   
+   Exemplo:
+   Entrada: 'Euclides,10,Joao,21,Maria,John'
+   Saída: 'Euclides 10 Joao 21 Maria John'
+
+2. Aguardando entradas do usuário
+   
+   Crie uma solicitação no programa para ler duas entradas e concatenar,
+   em seguida imprimir na tela.
+
+   Exemplo: 
+   Entrada: "Digite algo: " <TESTE>
+            "Digite mais algo: " <ABRACADABRA>
+   Saída:   "TESTE ABRACADABRA"
+
+3. Imprima o valor de uma nova string
+
+4. Imprima o tamanho de uma string
+
+5. Converta uma string para Uppercase e Imprima
+
+6. Verifique se uma string contém o texto 'Gorziza' e imprima True ou False
